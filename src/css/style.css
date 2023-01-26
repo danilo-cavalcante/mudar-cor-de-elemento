@@ -1,0 +1,26 @@
+body {
+    background-color: #847aa7;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+}
+
+.square.blue {
+    background-color: #00f;
+}
